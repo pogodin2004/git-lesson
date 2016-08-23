@@ -3,3 +3,5 @@ ttrtrrt;
 =======
 print("branch master");
 >>>>>>> master
+
+print("Hello GitHub");
