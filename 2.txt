@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ttrtrrt;
+=======
+print("branch master");
+>>>>>>> master
